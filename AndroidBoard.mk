@@ -24,5 +24,6 @@ INSTALLED_RADIOIMAGE_TARGET += \
     $(LOCAL_PATH)/images/uefi_sec.mbn \
     $(LOCAL_PATH)/images/parameter.img \
     $(LOCAL_PATH)/images/storsec.mbn \
-    $(LOCAL_PATH)/images/imagefv.elf
+    $(LOCAL_PATH)/images/imagefv.elf \
+    $(PRODUCT_OUT)/dtbo.img
 endif
