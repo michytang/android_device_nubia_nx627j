@@ -26,4 +26,4 @@ Kernel source for nubia Z20 - Unofficial
 
 Updated daily
 ===========================================
-You can find more information on this page： [Jenkins Robot](http://flowertome.ticp.io/jenkins/view/Paranoid/job/Paranoid%20Project/job/Quartz-10.0/job/aospa_nx627j/)
+You can find more information on this page： [Jenkins Robot](http://flowertome.ticp.io/jenkins/view/Paranoid/job/Paranoid-10.0/view/nubia%20nx627j/job/android_device_nubia_nx627j/)
